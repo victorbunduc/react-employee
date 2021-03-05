@@ -1,8 +1,8 @@
 # react-employee
 This app utilizes an API to populate random users and then create a directory. Other users on the app can search for employees by "name" and also organize each field (Name, Email, DOB) in ascending or descending order.
+
 # Employee Directory
- #### [Demo](https://victorbunducgithub.io/react-employee-directory/)
-![Budget Tracker Screenshot](employee-directory.png)
+ 
 
 ## Description
 
