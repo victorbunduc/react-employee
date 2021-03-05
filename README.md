@@ -2,6 +2,8 @@
 This app utilizes an API to populate random users and then create a directory. Other users on the app can search for employees by "name" and also organize each field (Name, Email, DOB) in ascending or descending order.
 
 # Employee Directory
+![Screenshot 2021-03-05 084339](https://user-images.githubusercontent.com/71414528/110146029-effb8b80-7d8e-11eb-801f-5460c8874394.png)
+
  
 
 ## Description
